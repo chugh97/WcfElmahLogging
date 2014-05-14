@@ -1,0 +1,6 @@
+c:\users\tina\documents\visual studio 2013\Projects\WcfService1\ElmahTestClient\bin\Debug\ElmahTestClient.exe.config
+c:\users\tina\documents\visual studio 2013\Projects\WcfService1\ElmahTestClient\bin\Debug\ElmahTestClient.exe
+c:\users\tina\documents\visual studio 2013\Projects\WcfService1\ElmahTestClient\bin\Debug\ElmahTestClient.pdb
+c:\users\tina\documents\visual studio 2013\Projects\WcfService1\ElmahTestClient\obj\Debug\ElmahTestClient.csprojResolveAssemblyReference.cache
+c:\users\tina\documents\visual studio 2013\Projects\WcfService1\ElmahTestClient\obj\Debug\ElmahTestClient.exe
+c:\users\tina\documents\visual studio 2013\Projects\WcfService1\ElmahTestClient\obj\Debug\ElmahTestClient.pdb

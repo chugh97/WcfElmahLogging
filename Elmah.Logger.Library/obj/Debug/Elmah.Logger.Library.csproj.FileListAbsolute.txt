@@ -1,0 +1,6 @@
+c:\users\tina\documents\visual studio 2013\Projects\WcfService1\Elmah.Logger.Library\bin\Debug\Elmah.Logger.Library.dll
+c:\users\tina\documents\visual studio 2013\Projects\WcfService1\Elmah.Logger.Library\bin\Debug\Elmah.Logger.Library.pdb
+c:\users\tina\documents\visual studio 2013\Projects\WcfService1\Elmah.Logger.Library\bin\Debug\Elmah.dll
+c:\users\tina\documents\visual studio 2013\Projects\WcfService1\Elmah.Logger.Library\obj\Debug\Elmah.Logger.Library.csprojResolveAssemblyReference.cache
+c:\users\tina\documents\visual studio 2013\Projects\WcfService1\Elmah.Logger.Library\obj\Debug\Elmah.Logger.Library.dll
+c:\users\tina\documents\visual studio 2013\Projects\WcfService1\Elmah.Logger.Library\obj\Debug\Elmah.Logger.Library.pdb

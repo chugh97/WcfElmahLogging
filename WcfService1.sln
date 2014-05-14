@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30324.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService1", "WcfService1\WcfService1.csproj", "{F1C4CC77-69FB-4190-AA00-2C97FAF3DF37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElmahTestClient", "ElmahTestClient\ElmahTestClient.csproj", "{E510AFFA-F8A7-4B7C-BA33-E56C496EF83F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F1C4CC77-69FB-4190-AA00-2C97FAF3DF37} = {F1C4CC77-69FB-4190-AA00-2C97FAF3DF37}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elmah.Logger.Library", "Elmah.Logger.Library\Elmah.Logger.Library.csproj", "{8E08C89B-BE24-42D1-9909-841BDBB54EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C4CC77-69FB-4190-AA00-2C97FAF3DF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C4CC77-69FB-4190-AA00-2C97FAF3DF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C4CC77-69FB-4190-AA00-2C97FAF3DF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C4CC77-69FB-4190-AA00-2C97FAF3DF37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E510AFFA-F8A7-4B7C-BA33-E56C496EF83F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E510AFFA-F8A7-4B7C-BA33-E56C496EF83F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E510AFFA-F8A7-4B7C-BA33-E56C496EF83F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E510AFFA-F8A7-4B7C-BA33-E56C496EF83F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E08C89B-BE24-42D1-9909-841BDBB54EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E08C89B-BE24-42D1-9909-841BDBB54EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E08C89B-BE24-42D1-9909-841BDBB54EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E08C89B-BE24-42D1-9909-841BDBB54EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
